@@ -1,131 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="true" />
-    <globalmarks />
-    <filemarks>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/Hello.java" timestamp="1564606485972">
-        <mark key="'" line="3" column="13" />
-        <mark key="[" line="16" column="7" />
-        <mark key="]" line="16" column="7" />
-        <mark key="." line="16" column="7" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1563739895042">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/untitled4/src/sample/Main.java" timestamp="1563569028981">
-        <mark key="'" line="1" column="36" />
-        <mark key="[" line="6" column="4" />
-        <mark key="]" line="6" column="4" />
-        <mark key="." line="6" column="4" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/untitled4/src/sample/Controller.java" timestamp="1563567698748">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
-      <file name="/fragment.java" timestamp="1563739893959">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/untitled6/src/Hell.java" timestamp="1565585505286">
-        <mark key="[" line="4" column="20" />
-        <mark key="]" line="4" column="5" />
-        <mark key="." line="4" column="5" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/untitled4/src/sample/HelloJava.java" timestamp="1563568062544">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/Hello/src/Hello.java" timestamp="1564606742501">
-        <mark key="[" line="1" column="4" />
-        <mark key="]" line="1" column="5" />
-        <mark key="n" line="1" column="2" />
-        <mark key="." line="1" column="4" />
-      </file>
-    </filemarks>
-    <jumps>
-      <jump line="1" column="36" filename="$USER_HOME$/IdeaProjects/untitled4/src/sample/Main.java" />
-      <jump line="3" column="13" filename="$APPLICATION_CONFIG_DIR$/scratches/Hello.java" />
-      <jump line="4" column="27" filename="$USER_HOME$/IdeaProjects/untitled6/src/Hell.java" />
-      <jump line="11" column="46" filename="$USER_HOME$/IdeaProjects/untitled6/src/Hell.java" />
-    </jumps>
-    <registers>
-      <register name="0" type="4">
-        <text encoding="base64">OwogICAgfQp9Cn0K</text>
-      </register>
-      <register name="1" type="4">
-        <text>if (c == 7) {
-
-
-            System.out.println(&quot;числото е четно &quot;);
-        } else {
-            System.out.println(&quot;числото е нечетно&quot;);
-        }</text>
-      </register>
-      <register name="&quot;" type="4">
-        <text />
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">aWYgKGIpewo=</text>
-      </register>
-      <register name="3" type="4">
-        <text encoding="base64">CgoKY2xhc3MgSGVsbG8gOwoKCiAgICBzdGF0aWMgU2Nhbm5lciB1c2VySW5wdXQgPSBuZXcgU2Nhbm5lcihTeXN0ZW0uaW4pCgogICAgcHVibGljIHN0YXRpYyB2b2lkIG1haW4oU3RyaW5nW10gYXJncykKICAgIHsKCiAgICAgICAgU3lzdGVtLm91dC5wcmludCggIiA/Pz8/Pz8/PyA/Pz8/ID8/Pz8/OiAiICkgOwoKICAgICAgICBpbnQgdGhlTnVtYmVyID0gdXNlcklucHV0Lm5leHRJbnQoKTsKCiAgICAgICAgaWYgKHRoZU51bWJlciAlIDIgPT0gMCk7CiAgICAgICAgewogICAgICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oIlxuPz8/Pz8/PyIgKyB0aGVOdW1iZXIgKyAiID8gPz8/Pz8hIik7CiAgICAgICAgfQogICAgICAgIGVsc2UKICAgICAgICB7CiAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbiggIlxuPz8/Pz8/PyAiICsgdGhlTnVtYmVyICsgICI/ID8/Pz8/Pz8hIik7CiAgICAgICAgfQogICAgfQ==</text>
-      </register>
-      <register name="4" type="4">
-        <text encoding="base64">CnB1YmxpYyBjbGFzcyBIZWxsPzsKCns=</text>
-      </register>
-      <register name="5" type="4">
-        <text>class Hello {
-    public static void main(String[] args)
-    {
-            {
-
-                System.out.print(“Въведете цяло число: “);
-
-                int theNumber = userInput.nextInt();
-
-                if (theNumber % 2 == 0)
-                {
-                    System.out.println(“\nЧислото ” + theNumber + ” е четно!”);
-                }
-                else
-                {
-                    System.out.println(“\nЧислото ” + theNumber + ” е нечетно!”);
-                }
-            }
-
-
-
-    }
-}</text>
-      </register>
-      <register name="6" type="4">
-        <text encoding="base64">IHN0YXRpYyBTY2FubmVyIHVzZXJJbnB1dCA9IG5ldyBTY2FubmVyKFN5c3RlbS5pbik7CgogICAgICAgICAgICBwdWJsaWMgc3RhdGljIHZvaWQgbWFpbihTdHJpbmdbXSBhcmdzKQ==</text>
-      </register>
-      <register name="7" type="4">
-        <text>nt b = 5 ;
-    System.out.println(a / ++2);</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIGludCBhID0gMTAgOwo=</text>
-      </register>
-      <register name="9" type="4">
-        <text encoding="base64">CgoKICAgIHN0YXRpYyBTY2FubmVyIHVzZXJJbnB1dCA9IG5ldyBTY2FubmVyKFN5c3RlbS5pbik7CgogICAgCiAgICB7CgogICAgICAgIFN5c3RlbS5vdXQucHJpbnQokyA/Pz8/Pz8/PyA/Pz8/ID8/Pz8/OiCTKTsKCiAgICAgICAgaW50IHRoZU51bWJlciA9IHVzZXJJbnB1dC5uZXh0SW50KCk7CgogICAgICAgIGlmICh0aGVOdW1iZXIgJSAyID09IDApCiAgICAgICAgewogICAgICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4ok1xuPz8/Pz8/PyCUICsgdGhlTnVtYmVyICsglCA/ID8/Pz8/IZQpOwogICAgICAgIH0KICAgICAgICBlbHNlCiAgICAgICAgewogICAgICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4ok1xuPz8/Pz8/PyCUICsgdGhlTnVtYmVyICsglCA/ID8/Pz8/Pz8hlCk7CiAgICAgICAgfQogICAgfQ==</text>
-      </register>
-      <register name="-" type="4">
-        <text />
-      </register>
-    </registers>
-    <search>
-      <last-dir>0</last-dir>
-      <show-last>false</show-last>
-    </search>
-    <history>
-      <history-search />
-      <history-cmd />
-      <history-expr />
-      <history-input />
-    </history>
+    <state version="5" enabled="true" />
     <shortcut-conflicts>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed V</text>
@@ -145,6 +20,15 @@
       <shortcut-conflict owner="vim">
         <text>ctrl pressed D</text>
       </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed Q</text>
+      </shortcut-conflict>
     </shortcut-conflicts>
+    <editor />
+    <notifications>
+      <idea-join enabled="false" />
+      <idea-put enabled="false" />
+      <template-selectmode enabled="false" />
+    </notifications>
   </component>
 </application>
